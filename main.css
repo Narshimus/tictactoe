@@ -1,0 +1,16 @@
+main{
+  height: 600px;
+  width: 600px;
+  border: 10px double grey;
+  margin:auto;
+  margin-top: 25px;
+}
+
+div{
+  box-sizing: border-box;
+  height: 200px;
+  width: 200px;
+  float: left;
+  border: solid grey;
+  font-size: 200px;
+}
